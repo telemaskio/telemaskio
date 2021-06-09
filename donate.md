@@ -15,4 +15,5 @@ Telemask team
 
 
 
-If you want to learn more about telemask, please refer to:[About Telemask](https://github.com/telemaskio/telemaskio/blob/main/about telemask.md)
+
+**If you want to learn more about telemask, please refer to:[About Telemask](https://github.com/telemaskio/telemaskio/blob/main/abouttelemask.md)**
