@@ -6,7 +6,7 @@ As a community autonomy project, telemask is driven by the support of all partie
 
 * Donation Currency: USDT (TRC20)
 * Public Donation Address: TFoSu8KbBEgomED7fmU7zXSS2ZnSEU7isp  
-![QR Code](/QR.jpg)  
+![QR Code](https://github.com/telemaskio/telemaskio/raw/main/QR.jpg)  
     Scan QR code and pay
 
 We appreciate and thank you for your generous donation.
