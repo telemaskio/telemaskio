@@ -5,16 +5,22 @@ Telemask is a distributed application project that integrates truly decentralize
 As a community autonomy project, telemask is driven by the support of all parties. After negotiation by the telemask development team, we now accept global donations. The donations will be used for system development and operation, enhancing customer experience, and docking with exchanges, third-party wallets, public chains and other support. A certain amount of TMS will be given to the donors who meet certain conditions.
 
 * Donation Currency: USDT (TRC20)
-* Public Donation Address: TFoSu8KbBEgomED7fmU7zXSS2ZnSEU7isp  
-![QR Code](https://github.com/telemaskio/telemaskio/raw/main/QR.jpg)  
-    Scan QR code and pay
-
+* Public Donation Address:  
+ ### TFoSu8KbBEgomED7fmU7zXSS2ZnSEU7isp
+    
+    
+<br/>
+<br/>
+<br/>
+<br/>
+ 
 We appreciate and thank you for your generous donation.
 
 Telemask team
 
 
 
-
+<br/>
+<br/>
 
 **If you want to learn more about telemask, please refer to:[About Telemask](https://github.com/telemaskio/telemaskio/blob/main/abouttelemask.md)**
