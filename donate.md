@@ -6,7 +6,7 @@ As a community autonomy project, telemask is driven by the support of all partie
 
 * Donation Currency: USDT (TRC20)
 * Public Donation Address:  
- ### TFoSu8KbBEgomED7fmU7zXSS2ZnSEU7isp
+ ### TFoSu8KbBEgomED7fmU7zXSS2ZnSEU7isp ###
     
     
 <br/>
