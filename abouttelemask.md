@@ -11,7 +11,7 @@ Telemask is committed to becoming the most influential decentralized communicati
 ## Token Information ##
 Token Name: Telemask governance token  
 Token abbreviation: TMS  
-Total Tokens: 21 million  
+Total Tokens: 20 million  
 Token issue: 100% from mining
 
 ## TMS distribution ##
