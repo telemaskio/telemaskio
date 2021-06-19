@@ -24,4 +24,5 @@ Telemask team
 <br/>
 <br/>
 
-**If you want to learn more about telemask, please refer to: [About Telemask](https://github.com/telemaskio/telemaskio/blob/main/abouttelemask.md)**
+**If you want to learn more about telemask, please refer to: [About Telemask](https://github.com/telemaskio/telemaskio/blob/main/abouttelemask.md)**  
+**If you want to learn more about the donation award schema, please refer to: [About Donation Airdrop](https://github.com/telemaskio/telemaskio/blob/main/AboutDonationAirdrop.md)**  
