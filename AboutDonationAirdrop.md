@@ -7,7 +7,7 @@ If your donation reaches 20000USDT, 50000TMS will be airdropped to you (includin
 
 When you donate, you must write an email to us, write down the donation information below, so that we can register and contact you to provide the public chain account of airdrop reward.  
 <BR>
-Recipient's email address:  
+Recipient's email address:  **telemask@yandex.com**  
 Subject: donation information declaration  
 Content:  
 Donation amount: [    ] USDT  
